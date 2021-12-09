@@ -103,7 +103,7 @@ switch ( pets > friendsPets ) {
   break;
 
   default:
-  console.log("Error, we may have equal pets")
+  console.log("Error, we may have equal pets?")
 }
 
 console.log(mostPets);
